@@ -2,6 +2,8 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-gsap-animation/
 
+#### `Youtube:` [React + GSAP | Базовые анимации](https://youtu.be/-3CiJy1AVgg)
+
 ---
 
 #### `git clone https://github.com/DmitriyShkredov/react-gsap-animation.git`
