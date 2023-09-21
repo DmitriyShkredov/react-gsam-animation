@@ -4,6 +4,8 @@
 
 #### `Youtube:` [React + GSAP | Базовые анимации](https://youtu.be/-3CiJy1AVgg)
 
+#### `VK Video`: [React + GSAP | Базовые анимации](https://vk.com/video/@tipichnyjvebrazrabotchik?section=playlists&z=video-222570561_456239036%2Fclub222570561%2Fpl_-222570561_4)
+
 ---
 
 #### `git clone https://github.com/DmitriyShkredov/react-gsap-animation.git`
