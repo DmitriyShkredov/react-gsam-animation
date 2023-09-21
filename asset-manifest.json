@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-gsap-animation/static/css/main.47aa22e9.css",
+    "main.js": "/react-gsap-animation/static/js/main.ad833c01.js",
+    "index.html": "/react-gsap-animation/index.html",
+    "main.47aa22e9.css.map": "/react-gsap-animation/static/css/main.47aa22e9.css.map",
+    "main.ad833c01.js.map": "/react-gsap-animation/static/js/main.ad833c01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47aa22e9.css",
+    "static/js/main.ad833c01.js"
+  ]
+}
